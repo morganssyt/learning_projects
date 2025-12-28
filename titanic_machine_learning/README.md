@@ -1,4 +1,4 @@
-## Titanic Machine Learning – Learning Project
+## Titanic Machine Learning – Prediction Project
 
 This project is part of my learning journey in data and
 machine learning.
