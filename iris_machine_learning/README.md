@@ -6,4 +6,4 @@ Support Vector Machine (SVM)
 Decision Tree Classifier
 Evaluations include accuracy, precision, recall, F1-score, and confusion matrix.
 
-This is a learning project and NOT part of my professional AI for Health portfolio.
+This is a learning project and NOT part of my professional portfolio.
